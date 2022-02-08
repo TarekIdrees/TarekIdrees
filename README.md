@@ -9,7 +9,6 @@
  * I'm **Tarek Idrees**. I am Bioinformatics Engineer from Syria. 
  * **‎Human Resources**‎ at‏ ‏‎[BIO CODE Cairo University](https://www.facebook.com/BioCodeFciCu/)
  * Former **Web Developer** at‎ [TEDx CairoUniversity](https://www.facebook.com/TEDxCairoUni/)
- * **Full stack Web Development** Trainee at [FastKood](https://www.facebook.com/fastkood/)
  * Studies **Bioinformatics** at [Faculty of Computers and Artificial Intelligence Cairo University](https://www.facebook.com/Faculty-of-Computers-and-Artificial-Intelligence-Cairo-University-111736953497657/)
  * My Blogger [Tarek Tecno](https://tarektecno963.blogspot.com.eg/?fbclid=IwAR0MGsM_a2FJYQdtNHCIl6C2JZf_Ys8oHaZU41V_34lNzrtlym_1P_79m50)
  
