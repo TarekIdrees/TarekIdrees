@@ -18,7 +18,7 @@
 
 ## 📫 Contact Me on Social Media
 
-[Facebook][-1] | [Instagram][0] [LinkedIn][-2]
+[Facebook][-1] | [Instagram][0] | [LinkedIn][-2]
 
 
  
