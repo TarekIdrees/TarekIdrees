@@ -18,7 +18,7 @@
 
 ## 📫 Contact Me on Social Media
 
-[Facebook][-1] | [Instagram][0] 
+[Facebook][-1] | [Instagram][0] [LinkedIn][-2]
 
 
  
@@ -45,4 +45,4 @@
 
 [-1]: https://www.facebook.com/tarekidrees2000/
 [0]: https://www.instagram.com/tarek_idrees
-
+[-2]: https://www.linkedin.com/in/tarek-idrees-7417b2175/
