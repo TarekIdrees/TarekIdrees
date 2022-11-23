@@ -31,7 +31,7 @@
 
 ## 💡 About Me 
 
-- 🌱 I’m currently learning Bioinfromatics
+- 🌱 B.S in Computer Science with an Excellent grade
 - 📫 How to reach me: tarekidrees321@gmail.com
 
 
