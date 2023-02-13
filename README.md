@@ -8,10 +8,9 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-engaged-red) 
 
- * I'm **Tarek Idrees** 👋 Software Engineer from Syria. 
- * **Head Human Resources**‎ at‏ ‏‎[BIO CODE Cairo University](https://www.facebook.com/BioCodeFciCu/)
- * Studies **Bioinformatics** at [Faculty of Computers and Artificial Intelligence Cairo University](https://www.facebook.com/Faculty-of-Computers-and-Artificial-Intelligence-Cairo-University-111736953497657/)
- * My Blogger [Tarek Tecno](https://tarektecno963.blogspot.com.eg/?fbclid=IwAR0MGsM_a2FJYQdtNHCIl6C2JZf_Ys8oHaZU41V_34lNzrtlym_1P_79m50)
+ * I'm **Tarek Idrees** 👋 Software Engineer. 
+ * **Computer science Instructor** at [iSchool](https://www.linkedin.com/company/ischoolegypt/)
+ * Graduate from the [Faculty of Computers and Artificial Intelligence Cairo University](https://www.facebook.com/Faculty-of-Computers-and-Artificial-Intelligence-Cairo-University-111736953497657/)
  
 ‎‏
 
