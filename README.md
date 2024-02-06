@@ -18,9 +18,9 @@
 
 ## 📫 Contact Me on Social Media
 <p align="left">
-<a href="https://www.linkedin.com/in/tarek-idrees/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek_idrees" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tareq-idris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarek_idrees" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tarekidrees2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tarek_idrees" height="30" width="40" /></a>
-<a href="https://www.instagram.com/tarek_idrees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarek_idrees" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tareq_idris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tarek_idrees" height="30" width="40" /></a>
 </p>
 
 
@@ -34,7 +34,7 @@
 ## 💡 About Me 
 
 - 🌱 B.S in Computer Science with an Excellent grade
-- 📫 How to reach me: tarekidrees321@gmail.com
+- 📫 How to reach me: tarek.idrees.ad@gmail.com
 
 
 ## Languages and Tools 
