@@ -8,8 +8,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-engaged-red) 
 
- * I'm **Tarek Idrees** 👋 Software Engineer. 
- * **Computer science Instructor** at [iSchool](https://www.linkedin.com/company/ischoolegypt/)
+ * I'm **Tareq Idris** 👋 Software Engineer. 
  * Graduate from the [Faculty of Computers and Artificial Intelligence Cairo University](https://www.facebook.com/Faculty-of-Computers-and-Artificial-Intelligence-Cairo-University-111736953497657/)
  
 ‎‏
